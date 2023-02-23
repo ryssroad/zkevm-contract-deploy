@@ -1,4 +1,4 @@
-Деплой смарт контракта на ZK EVM
+## Деплой смарт контракта на ZK EVM
 
 - Понадобится [nodejs v14-v18](https://trufflesuite.com/docs/truffle/how-to/install/#install-nodejs)
 
